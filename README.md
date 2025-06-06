@@ -3,10 +3,8 @@ Hey, I'm Yuhan!
 Attention spans are short these days, so here's what I'm doing:
 ---------------------------------------------------------------
 * 🎒 I'm currently studying Computer Science and Statistics as an honors undergraduate student at the University of Connecticut (Main campus 😎)
-* 🤖 I'm a member of FROST Robotics working on a 3lb flipper bot
-* 📚 I'm learning about Cybersecurity(3140), Algorithms and Complexity(3500), and Systems Programming(3100)
-
-
+* 🤖 I'm a member of FROST Robotics working on a 3lb flipper bot for NHRL
+* 📚 I'm studying cooperative robotic arms with a research team
 
 and what I've done:
 -------------------
@@ -15,5 +13,8 @@ and what I've done:
 
 and what I can do:
 ------------------
-* 💻 I can program in Python, Java, and C++
-* 📓 I'm learning to program in C
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,ros,latex,cmake)](https://skillicons.dev)
+
+and what I'm learning:
+----------------------
+[![My Skills](https://skillicons.dev/icons?i=spring,postgres)](https://skillicons.dev)
